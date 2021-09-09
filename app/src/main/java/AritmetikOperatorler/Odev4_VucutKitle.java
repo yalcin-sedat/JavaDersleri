@@ -2,7 +2,7 @@ package AritmetikOperatorler;
 
 import java.util.Scanner;
 
-public class Ödev4_VucutKitle {
+public class Odev4_VucutKitle {
 
     //Kullanıcıdan aldığınız değerlere göre vücut kitle endeksini hesaplayınız.
     //Vücut Kitle Endeksi = kilo(kg) / ((boy(cm)/100) karesi)
