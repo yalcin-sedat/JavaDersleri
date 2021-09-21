@@ -1,4 +1,4 @@
-package OOP.TelevisionSimulation;
+package OOP.television_simulation;
 
 import java.util.ArrayList;
 

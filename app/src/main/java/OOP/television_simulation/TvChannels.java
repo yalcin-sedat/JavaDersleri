@@ -1,4 +1,4 @@
-package OOP.TelevisionSimulation;
+package OOP.television_simulation;
 
 public class TvChannels {
     private String channelName;
